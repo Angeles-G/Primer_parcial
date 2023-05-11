@@ -1,0 +1,12 @@
+{
+    "Personajes": [
+        {
+            "nombre": "Goku",
+            "poder_ataque": 10000,
+            "habilidad": [
+                "Kamehameha",
+                "Super Saiyan"
+            ]
+        }
+    ]
+}

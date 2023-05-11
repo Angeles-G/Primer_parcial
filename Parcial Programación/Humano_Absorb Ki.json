@@ -1,0 +1,11 @@
+{
+    "Personajes": [
+        {
+            "nombre": "Yamu",
+            "poder_ataque": 350,
+            "habilidad": [
+                "Flight"
+            ]
+        }
+    ]
+}

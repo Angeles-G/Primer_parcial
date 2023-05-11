@@ -1,0 +1,12 @@
+{
+    "Personajes": [
+        {
+            "nombre": "Hit",
+            "poder_ataque": 9000,
+            "habilidad": [
+                "Icicle Lance",
+                "Flash Fist Crush"
+            ]
+        }
+    ]
+}
